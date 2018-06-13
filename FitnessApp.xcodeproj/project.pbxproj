@@ -12,6 +12,7 @@
 		22163FB020D0D25B00F25A81 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 22163FAE20D0D25B00F25A81 /* Main.storyboard */; };
 		22163FB220D0D25E00F25A81 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 22163FB120D0D25E00F25A81 /* Assets.xcassets */; };
 		22163FB520D0D25E00F25A81 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 22163FB320D0D25E00F25A81 /* LaunchScreen.storyboard */; };
+		22163FBF20D0DBAD00F25A81 /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22163FBE20D0DBAD00F25A81 /* ProfileViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		22163FB120D0D25E00F25A81 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		22163FB420D0D25E00F25A81 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		22163FB620D0D25E00F25A81 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		22163FBE20D0DBAD00F25A81 /* ProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				22163FAA20D0D25B00F25A81 /* AppDelegate.swift */,
 				22163FAC20D0D25B00F25A81 /* ViewController.swift */,
 				22163FAE20D0D25B00F25A81 /* Main.storyboard */,
+				22163FBE20D0DBAD00F25A81 /* ProfileViewController.swift */,
 				22163FB120D0D25E00F25A81 /* Assets.xcassets */,
 				22163FB320D0D25E00F25A81 /* LaunchScreen.storyboard */,
 				22163FB620D0D25E00F25A81 /* Info.plist */,
@@ -135,6 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				22163FBF20D0DBAD00F25A81 /* ProfileViewController.swift in Sources */,
 				22163FAD20D0D25B00F25A81 /* ViewController.swift in Sources */,
 				22163FAB20D0D25B00F25A81 /* AppDelegate.swift in Sources */,
 			);
